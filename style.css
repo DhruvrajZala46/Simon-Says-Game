@@ -94,8 +94,8 @@ body{
   }
   .highest-score
   {
-    font-size: 12px;
+    font-size: 10px;
     left:0px;
-    top:0px;
+    top:50px;
   }
 }
